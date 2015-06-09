@@ -27,7 +27,7 @@ If the Software does its job very well, is easy to use and setup, is extremely s
 
 #### MariaDB - The Hacking Model
 
-The hacking model offers the software as free, but charges for additional coding services to end users of the software.
+The hacking model offers the software as libre, but charges for additional coding services to end users of the software.
 
 MariaDB uses a derivation of the support model. They offer the same patches, fixes, updates, technical support, etc. that RedHat does, but their focus is on something else. They provide modified binaries and additional tools and coding services to companies that need to adapt MariaDB to their specific needs.
 
@@ -95,7 +95,7 @@ The SAAS model provides open source versions of all its code but charges for onl
 
 Sharelatex open sources its code but uses a subscription model for usage of its online service.
 
-In this model companies can easily weigh the positives/negatives of installing your software on their servers and setting up storage and other services themselves or just paying to use the service and not have to worry about all that overhead. It probably works well for projects that have many other dependencies that are not free or difficult to manage, for example storage space, reliability/uptime, advanced search functionality, high performance, security, etc.
+In this model companies can easily weigh the positives/negatives of installing your software on their servers and setting up storage and other services themselves or just paying to use the service and not have to worry about all that overhead. It probably works well for projects that have many other dependencies that are not non-gratis or difficult to manage, for example storage space, reliability/uptime, advanced search functionality, high performance, security, etc.
 
 **features**
 
