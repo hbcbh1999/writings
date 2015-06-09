@@ -12,7 +12,7 @@ RedHat uses what I will call the "support model". The company gives away open so
 
 Fundamentally, this model mandates that customers need 24/7 support, seminars to master the software they are using, and integration help to adapt the software to their business needs. 
 
-If the Software does its job very well, is easy to use and setup, is extremely stable, needs little to no detailed explanation beyond its documentation, and has few dependencies - goals of virtually every software engineer.
+If the Software does its job very well, is easy to use and setup, is extremely stable, needs little to no detailed explanation beyond its documentation, and has few dependencies - goals of virtually every software engineer - this model might be hard to sustain.
 
 **features**
 
