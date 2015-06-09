@@ -1,6 +1,8 @@
 ## Open Source Revenue Models
 
-The following are Open Source revenue models - not necessarily Free Software revenue models. Free Software respects a users four essential freedoms: to run the program, to study and modify it, to copy it, to redistribute it or modified versions of it for any purpose.
+The following are Open Source revenue models as categorized by me - not necessarily Software Libre revenue models. Software Libre respects a users four essential freedoms: to run the program, to study and modify it, to copy it, to redistribute it or modified versions of it for any purpose.
+
+The goal of this article is to list various revenue models for open source software and make basic conclusions about their utility. At some other point, I will use these observations to define company strategies based on these models.
 
 #### RedHat - The Support Model
 
