@@ -1,4 +1,4 @@
-## To the Junior Engineer
+## Five tips to Junior Engineers
 
 Here are a few things I wish someone had told me when I was just starting into my career.
 
