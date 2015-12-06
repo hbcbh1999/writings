@@ -53,5 +53,5 @@ Be sure you are enjoying your life outside of work and doing something with all 
 Remember that some day you won't be young anymore and that older you will probably want to look back on the experiences of his youth with more coming to mind than a computer screen, null pointers and stack overflows.
 
 
-- c'est la fin
+c'est la fin.
 
