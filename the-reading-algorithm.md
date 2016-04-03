@@ -41,7 +41,9 @@ Now we have a way to test whether, and to what degree, we have learned during a 
 ```
 learning-by-reading ::= <set-goals> <active-reading> <summarize>
 
-active-reading ::= <ask-questions> | <test-assertions> | <solve-problems> | <create-problems> | <reflect> | [<active-reading>]
+active-reading ::= <ask-questions> | <test-assertions> |
+                   <solve-problems> | <create-problems> |
+                   <reflect> | [<active-reading>]
 
 ```
 
