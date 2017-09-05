@@ -65,7 +65,7 @@ A falsifiable truth can say:
 1. Because it keeps humans from self-actualizing when living in groups.
 2. Because it naturally emerged as a means for cooperative living independent of any one civilization.
 3. Because it minimizes the risk of cooperation between different people.
-
+4. ... etc, etc, so long as the reasons are falsifiable and testable
 
 The absolute truth can say:
 
