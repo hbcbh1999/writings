@@ -16,7 +16,7 @@ been shown to be false yet. There is no difference between a law and a theory ex
 and its predictions have been verified to an even greater degree. The key point here is that anything that is true
 today is just one test away from being false tomorrow.
 
-This doesn't mean things that were true and are now false suddenly lose there usefulness. Classical Mechanics isn't a perfectly accurate model of how the universe actually works, but that doesn't stop it from being true enough to suffice for solving lots of real-world engineering problems.
+This doesn't mean things that were true and are now false suddenly lose their usefulness. Classical Mechanics isn't a perfectly accurate model of how the universe actually works, but that doesn't stop it from being true enough to suffice for solving lots of real-world engineering problems.
 
 This is the idea of truth as a tool, a tool we use to make predictions about the universe, and a tool we use to understand that universe. But like
 all tools the scientific truth can be sharpened and we can build ourselves newer and better tools as our understanding changes.
@@ -43,7 +43,7 @@ If there were a test then it wouldn't be absolute truth and would just fall unde
 When someone tells you that they have the absolute truth, it means they think they have found something which perhaps has some evidence supporting it, but which certainly has no way of testing and evaluating it. Its as if I were to tell you that the sun rises because a tiny red invisible being puts the sun on his back and causes it to slowly cross the sky over the course of a day. I could then say that this tiny red invisible being swore to the moon that he would do this forever, so we should expect the sun to rise tomorrow as well.
 There would be some evidence supporting my claim i.e. the sun does rise every day, but there is no way to falsify it. There is no test that we can do to find this tiny red invisible being. And any test we do which makes it more and more difficult to accept the absolute truth of the tiny red invisible man can easily be dismissed his followers. When we discover that the sun doesn't rise but that our planet is moving around the sun, the absolutist would say, "Well, he puts the sun on his back, and causes doesn't mean he moves the sun, it just means that it looks like the sun is moving.". And any further evidence against the absolutist view its dealt with in such a manner. Why? Because the absolute truth, by definition, can never be wrong, even the slightest altercation to its value statement would be an admission of failure. It must always be true, forever.
 
-Now given the previously scientific view on truth and facts, and our current knowledge of absolute truth you might be thinking that the question now is: is there any thing that could possibly be considered an absolute truth?
+Now given the previous scientific view on truth and facts, and our current knowledge of absolute truth you might be thinking that the question now is: is there any thing that could possibly be considered an absolute truth?
 
 But actually, I don't think thats the most important question. Its certainly an interesting one and one we will think about shortly, but the real question we should be thinking about is not whether absolute truth exist somewhere in the universe,
 but whether or not approaching truth values from an absolutist perspective is useful at all.
