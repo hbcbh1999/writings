@@ -73,9 +73,13 @@ The absolute truth can say:
 
 Where X can range from a single statement, "I said so", to a 10,000 page novel, so long as nothing is testable and falsifiable.
 
+Absolute truth does offer comfort. It offers a feeling of wholeness. It lets its adherents think that they have found an unwavering pillar on which to base their actions. But its a false comfort, a false sense certainty. A sense of certainty founded on nothingness. Nothingness because any concrete reason has a foundation that is testable, verifiable, and has tangible evidence to support it.
 
-It should now be obvious why the absolute view of truth is so dangerous - it cannot be tested or falsified under any circumstances. If  any part of an absolute truth gets some aspect of its claim wrong, then it will be wrong in that way forever and never admit any change.
+## Summary
 
-Absolute truth has been as is still used to justify slavery, violence against Jews, wars, and numerous other crimes.
+It should now be obvious why the absolute view of truth is so dangerous - it cannot be tested or falsified under any circumstances. If  any part of an absolute truth gets some aspect of its claim wrong, however tiny that may be, then it will be wrong in that way forever and never admit any change.
 
-Do the sum of the positives of absolute truth outweigh the negatives?
+
+Absolute truth has been and is still used to justify slavery, violence against ethnic groups, wars, and numerous other crimes against humanity.
+
+So ask yourself, is false certainty worth the risks? Is a feeling of rightness worth the possibility of irreversible mistakes?
