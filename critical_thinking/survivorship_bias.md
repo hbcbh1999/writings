@@ -18,8 +18,10 @@ It might be the case that an actor gets a few big film roles because of his skil
 
 We can draw another example of survivorship bias from military problem solving in WWII. There Navy researchers wanted to minimize bomber losses due to enemy fire during mission deployments. At first, they analyzed the bombers which had returned from battle and planned to add extra armor to the areas which had been most heavily perforated. It was an Austro-Hungrian statistician named Abraham Wald, who realized that they were making the mistake of survivorship bias, since they were only sampling planes which had indeed returned, and he suggested that the areas with the most holes actually represented the places on a plane which could take the most damage. He then proposed that the Navy reinforce the undamaged areas of the aircraft, since those were likely the areas which when hit, caused the plane to crash.
 
+Now let's examine how survivor bias might also influence western perceptions of other ethnic groups, specifically Asians. In order to immigrate into the US, most Asians need to have skills which are highly in demand. They need post-secondary degrees in a STEM field and enough money or a high paying job to fund their transfer from a distant country to a western one. This in turn feeds the stereotype that Asians are smart and that their cultural values lead highly productive individuals. Whether or not the Asian distribution of IQ turns out to be higher at the mean than that of other groups is irrelevant, since western perceptions are constructed on a biased sample derived from only the "survivors" of the arduous immigration process.
 
-When you're looking at a system or a problem domain like firms in an economy or a historical event, don't forget to look at the failures just as much as those who succeeded if you want to obtain an unbiased full context view of the situation and be capable of making more accurate predictions in the future.
+
+In summary, when you're looking at a system or a problem domain like firms in an economy or a historical event, don't forget to look at the failures just as much as those who succeeded if you want to obtain an unbiased full context view of the situation and be capable of making more accurate predictions in the future.
 
 #### Notes
 
